@@ -1,1 +1,1 @@
-A two stage opamp design, intended to tapeout with efabless using SKY130A technology.
+A two stage opamp design using sky130A PDK.
