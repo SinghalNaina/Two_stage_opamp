@@ -1381,10 +1381,10 @@ Netlists match uniquely.
 Subcircuit pins:
 Circuit 1: user_analog_project_wrapper     |Circuit 2: user_analog_project_wrapper     
 -------------------------------------------|-------------------------------------------
+io_analog[2]                               |io_analog[2]                               
 io_analog[3]                               |io_analog[3]                               
 io_analog[0]                               |io_analog[0]                               
 vccd1                                      |vccd1                                      
-io_analog[2]                               |io_analog[2]                               
 io_clamp_low[0]                            |io_clamp_low[0]                            
 io_clamp_high[0]                           |io_clamp_high[0]                           
 io_analog[4]                               |io_analog[4]                               
